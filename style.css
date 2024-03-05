@@ -1,0 +1,19 @@
+*{margin:0%;}
+h1{
+    text-align: center;
+}
+hr{
+  height: 10px;
+  background-color: chocolate;  
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: crimson;
+    font-weight: bold;
+    font-size: 28px;
+}
+p{
+    font-size: 22px;
+}
+.main{color: brown;background-color: dimgray;border: black;padding: 20px;border: solid;}
